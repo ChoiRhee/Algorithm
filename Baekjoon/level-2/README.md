@@ -12,5 +12,5 @@ https://www.acmicpc.net/problem/2753
 ### 14681 사분면 고르기 ✔
 https://www.acmicpc.net/problem/14681
 
-### 2884 알람시계
+### 2884 알람시계 ✔
 https://www.acmicpc.net/problem/2884
