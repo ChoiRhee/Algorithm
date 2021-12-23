@@ -3,7 +3,7 @@
 ### 10818 최소, 최대 ✔️
 https://www.acmicpc.net/problem/10818
 
-### 2562 최댓값
+### 2562 최댓값 ✔️
 https://www.acmicpc.net/problem/2562
 
 ### 2577 숫자의 개수
