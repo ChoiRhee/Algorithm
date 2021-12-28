@@ -12,10 +12,10 @@ https://www.acmicpc.net/problem/8393
 ### 15552 빠른 A+B 
 https://www.acmicpc.net/problem/15552
 
-### 2741 N찍기
+### 2741 N찍기 ✔️
 https://www.acmicpc.net/problem/2741
 
-### 2742 기찍N
+### 2742 기찍N ✔️
 https://www.acmicpc.net/problem/2742
 
 ### 11021 A+B-7
