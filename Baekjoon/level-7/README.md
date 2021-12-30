@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/11720
 ### 10809 알파벳 찾기 ✔️
 https://www.acmicpc.net/problem/10809
 
-### 2675 문자열 반복
+### 2675 문자열 반복 ✔️
 https://www.acmicpc.net/problem/2675
 
 ### 1157 단어 공부
