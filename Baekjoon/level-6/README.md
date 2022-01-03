@@ -6,5 +6,5 @@ https://www.acmicpc.net/problem/15596
 ### 4673 셀프 넘버 ✔️
 https://www.acmicpc.net/problem/4673
 
-### 1065 한수 
+### 1065 한수 ✔️
 https://www.acmicpc.net/problem/1065
