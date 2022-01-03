@@ -1,6 +1,6 @@
 # level 8 : 기본 수학1
 
-### 1712 손익분기점
+### 1712 손익분기점 ✔️
 https://www.acmicpc.net/problem/1712
 
 ### 2292 벌집
