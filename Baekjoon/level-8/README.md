@@ -3,7 +3,7 @@
 ### 1712 손익분기점 ✔️
 https://www.acmicpc.net/problem/1712
 
-### 2292 벌집
+### 2292 벌집 ✔️
 https://www.acmicpc.net/problem/2292
 
 ### 1193 분수찾기
