@@ -18,7 +18,7 @@ https://www.acmicpc.net/problem/4989
 ### 9020 골드바흐의 추측
 https://www.acmicpc.net/problem/9020
 
-### 1085 직사각형에서 탈출
+### 1085 직사각형에서 탈출 ✔️
 https://www.acmicpc.net/problem/1085
 
 ### 3009 네 번째 점
