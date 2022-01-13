@@ -21,7 +21,7 @@ https://www.acmicpc.net/problem/9020
 ### 1085 직사각형에서 탈출 ✔️
 https://www.acmicpc.net/problem/1085
 
-### 3009 네 번째 점
+### 3009 네 번째 점 ✔️
 https://www.acmicpc.net/problem/3009
 
 ### 4153 직각삼각형 ✔️
