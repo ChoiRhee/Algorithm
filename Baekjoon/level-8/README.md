@@ -24,5 +24,5 @@ https://www.acmicpc.net/problem/2839
 ### 10757 큰 수 A+B ✔️
 https://www.acmicpc.net/problem/10757
 
-### 1011 Fly me to the Alpha Centauri
+### 1011 Fly me to the Alpha Centauri ✔️
 https://www.acmicpc.net/problem/1011
