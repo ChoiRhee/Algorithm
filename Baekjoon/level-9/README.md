@@ -3,7 +3,7 @@
 ### 1978 소수 찾기
 https://www.acmicpc.net/problem/1978
 
-### 2581 소수
+### 2581 소수 ✔️
 https://www.acmicpc.net/problem/2581
 
 ### 11653 소인수분해 ✔️
