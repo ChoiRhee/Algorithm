@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/2581
 ### 11653 소인수분해 ✔️
 https://www.acmicpc.net/problem/11653
 
-### 1929 소수 구하기
+### 1929 소수 구하기 ✔️
 https://www.acmicpc.net/problem/1929
 
 ### 4989 베르트랑 공준
