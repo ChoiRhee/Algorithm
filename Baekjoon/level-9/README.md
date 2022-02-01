@@ -30,5 +30,5 @@ https://www.acmicpc.net/problem/4153
 ### 3053 택시 기하학 ✔️
 https://www.acmicpc.net/problem/3053
 
-### 1002 터렛
+### 1002 터렛 ✔️
 https://www.acmicpc.net/problem/1002
